@@ -10,18 +10,18 @@ Anki 手册
 </script>
 ++++++++++++++++++++++++++++++
 
-Intro Videos
+介绍视频Intro Videos
 ============
 
- * http://www.youtube.com/watch?v=QS2G-k2hQyg&feature=plcp[Shared Decks and Review Basics]
- * http://www.youtube.com/watch?v=DnbKwHEQ1mA[Switching Card Order]
- * http://www.youtube.com/watch?v=F1j1Zx0mXME[Styling Cards]
- * http://www.youtube.com/watch?v=5tYObQ3ocrw[Typing in the Answer]
+ * http://www.youtube.com/watch?v=QS2G-k2hQyg&feature=plcp[共享牌组和使用基础Shared Decks and Review Basics]
+ * http://www.youtube.com/watch?v=DnbKwHEQ1mA[转换卡片顺序Switching Card Order]
+ * http://www.youtube.com/watch?v=F1j1Zx0mXME[卡片样式Styling Cards]
+ * http://www.youtube.com/watch?v=5tYObQ3ocrw[键入答案Typing in the Answer]
 
-Translations
+翻译
 ============
 
-This page translated into other languages:
+这个页面被翻译成其他语言This page translated into other languages:
 
  * http://ankisrs.net/docs/manual.fr.html[Français]
  * http://www.dennisproksch.de/anki[German]
@@ -29,8 +29,8 @@ This page translated into other languages:
  * http://wikiwiki.jp/rage2050/?FrontPage[日本語]
  * http://www.ankichina.net/anki20.html[简体中文]
 
-These translations are contributed by volunteers. If you would like to help
-translate the manual into a different language, or you would like to look at
+这些翻译有志愿者贡献，如果你愿意帮助将手册These translations are contributed by volunteers. If you would like to help
+翻译成不同的语言,translate the manual into a different language, or you would like to look at
 the translations that are currently in progress, please see the
 <<translatingmanual,translating the manual>> section.
 
