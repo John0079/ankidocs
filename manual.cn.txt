@@ -30,35 +30,35 @@ Anki 手册
  * http://www.ankichina.net/anki20.html[简体中文]
 
 这些翻译有志愿者贡献，如果你愿意帮助将手册These translations are contributed by volunteers. If you would like to help
-翻译成不同的语言,translate the manual into a different language, or you would like to look at
-the translations that are currently in progress, please see the
-<<translatingmanual,translating the manual>> section.
+翻译成不同的语言,或者你想看translate the manual into a different language, or you would like to look at
+目前正在进行中的翻译，请参阅the translations that are currently in progress, please see the
+<<translatingmanual,translating the manual>> 部分section.
 
-Introduction
+介绍
 ============
 
 :website: http://ankisrs.net/[Anki website]
 :ankiweb: https://ankiweb.net/
 
-Anki is a program which makes remembering things easy. Because it is a lot
-more efficient than traditional study methods, you can either greatly decrease
-your time spent studying, or greatly increase the amount you learn.
+Anki是一个能让记忆东西变得很容易的程序，因为它Anki is a program which makes remembering things easy. Because it is a lot
+比传统的学习方法更有效，这样你或者可以缩短你的学习时间more efficient than traditional study methods, you can either greatly decrease
+或者可以大大增多你学习的内容your time spent studying, or greatly increase the amount you learn.
 
-Anyone who needs to remember things in their daily life can benefit from Anki.
-Since it is content-agnostic and supports images, audio, videos and scientific
-markup (via LaTeX), the possibilities are endless. For example:
+任何人需要在每天的日常生活中记东西都可以从Anki收益，Anyone who needs to remember things in their daily life can benefit from Anki.
+因为它与你的学习内容无关，它可以支持图片，音频，视频，符号标记，Since it is content-agnostic and supports images, audio, videos and scientific
+其可能性是无极限的，例如：markup (via LaTeX), the possibilities are endless. For example:
 
- - learning a language
- - studying for medical and law exams
- - memorizing people's names and faces
- - brushing up on geography
- - mastering long poems
- - even practicing guitar chords!
+ - 学习一门语言learning a language
+ - 医学或法律考试前的冲刺studying for medical and law exams
+ - 记住他人的名字和面孔memorizing people's names and faces
+ - 温习地理brushing up on geography
+ - 背诵长篇诗文mastering long poems
+ - 甚至练习吉他和弦even practicing guitar chords!
 
-There are two simple concepts behind Anki: 'active recall testing' and 'spaced
-repetition'. They are not known to most learners, despite having been written
-about in the scientific literature for many years. Understanding how they work
-will make you a more effective learner.
+Anki依据两个简单理论：‘主动召回测验’和There are two simple concepts behind Anki: 'active recall testing' and 'spaced
+‘间隔复习’repetition'. 尽管这些理论很多年前已经被写成科学文献，They are not known to most learners, despite having been written
+但是不被大多学习者知道，理解他们的工作机理可以使你变成about in the scientific literature for many years. Understanding how they work
+高效的学习者ill make you a more effective learner.
 
 [[active-recall]]
 Active Recall Testing
